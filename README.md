@@ -2,8 +2,6 @@
 
 - This app is a clone of the popular ride-sharing app, Uber, and has been developed with scalable code in mind. This means that the app has been designed to be easily expandable and maintainable, making it easy for me or other developers to add new features and fix bugs.
 
-- The app has been developed using the latest version of Swift and SwiftUI, which provides a modern and user-friendly interface which supports dark mode, allowing users to switch between a light and dark theme depending on their preference.
-
 - This app allows the user to request a ride using a simple pricing model that returns back real trip data on travel time and different prices between different ride types
 
 # Screenshots
